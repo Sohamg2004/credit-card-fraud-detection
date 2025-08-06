@@ -7,7 +7,8 @@ This project uses machine learning to detect fraudulent credit card transactions
 - Model accuracy on test data: **91.87%**
 
 ## 📚 Dataset
-- Source: [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- Source: [Kaggle Credit Card Fraud Detection]
+- (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## 🔍 Features
 - Logistic Regression classifier
